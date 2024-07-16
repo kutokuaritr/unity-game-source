@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - character
+  - cube
+  - kis-zemin
+  - yaz-zemin
+  - HazineSandik
+  - SabitNesme
+  - EnvironmentObject
+  - HareketliNesne
+  - Bulut
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - karakter
+  - Water
+  - UI
+  - SabitNesme
+  - Sandik
+  - HareketliNesne
+  - Bulut
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: zemin
+    uniqueID: 1850438657
+    locked: 0
+  - name: kis-zemin
+    uniqueID: 2676178753
+    locked: 0
+  - name: yaz-zemin
+    uniqueID: 447998509
+    locked: 0
+  - name: Sandik
+    uniqueID: 139515965
+    locked: 0
+  - name: SabitNesme
+    uniqueID: 842251931
+    locked: 0
+  - name: HareketliNesne
+    uniqueID: 2400635269
+    locked: 0
+  - name: character
+    uniqueID: 2573362827
+    locked: 0
+  - name: Bulut
+    uniqueID: 2514546457
+    locked: 0
